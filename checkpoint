@@ -1,0 +1,2 @@
+model_checkpoint_path: "DhakaRainModelV2"
+all_model_checkpoint_paths: "DhakaRainModelV2"
